@@ -5,7 +5,7 @@ var numUsers = 0;
 var port = process.env.PORT || 3000;
 
 app.get('/', function(req, res){
-	res.sendFile('/app/index.html');
+	res.sendFile('app/index.html');
 });
 
 

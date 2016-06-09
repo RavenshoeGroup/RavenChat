@@ -3,6 +3,8 @@ var http = require('http').Server(app);
 var io = require('socket.io')(http);
 var numUsers = 0;
 
+const PORT = process.env.PORT || 3000;
+
 app.get('/', function(req, res){
 	res.sendFile(__dirname + '/app/index.html');
 });
@@ -50,6 +52,6 @@ io.on('connection', function(socket){
 });
 
 
-http.listen(443, function(){
+http.listen(PORT, function(){
  	console.log('listening on *:443');
 });

@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+img{border:0;}
+#wrapper{ background-color:#FFF;}
+.default-wrapper{ background-color:#FFF; min-height:450px; color:#FFF;}
+
+body{ background-color:#FFFFFF; font-family: 'Open Sans', sans-serif;}
+
+
+
+.myhover:hover .myhover-menu {
+	   display: block;
+	}
+
+
+
+
+
+
+
+
+
+
+
+/*_______MEDIA QUERIES_______*/
+
+@media (max-width: 480px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}

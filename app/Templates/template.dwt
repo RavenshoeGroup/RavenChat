@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<link rel="shortcut icon" href="images/favicon.ico" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Title</title>
+<!-- TemplateEndEditable -->
+
+<!-- TemplateBeginEditable name="metadescription" -->
+<meta name="description" content="Your Description Here"/>
+    
+<!-- Open Graph data -->     
+<meta property="og:title" content="Your eye-catching title here" />
+<meta property="og:url" content="http://www.yourdomain.com" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Your entertaining and descriptive copy here, if your meta description is good, use it." />
+<meta property="og:image" content="http://www.yourdomain.com/image-name.jpg" />
+    
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Your title here" />
+<meta name="twitter:description" content="Your 200-character description here" />
+<meta name="twitter:url" content="http://www.yourdomain.com" />
+<meta name="twitter:image" content="http://www.yourdomain.com/image-name.jpg" />
+<!-- TemplateEndEditable -->
+
+
+<!-- Bootstrap Framework-->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<link href="../css/theme.css" rel="stylesheet">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="js/plugins/html5shiv.js"></script>
+  <script src="js/plugins/respond.min.js"></script>
+<![endif]-->
+    
+<!-- Google Analytics -->
+<script type="text/javascript">
+        
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA - ADD NEW UA # IN BETWEEN QUOTES']);
+   _gaq.push(['_trackPageview']);
+        
+   (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+        
+</script>
+<!-- end -->
+    
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+
+</head>
+
+<body>
+<div id="wrapper">
+
+<!-- Header -->
+
+<div class="header container">
+ <div class="row ">
+ 
+  <div class="col-sm-12 col-md-12">
+  
+  <!--NAVIGATION-->
+  
+  </div>
+   
+ </div>
+</div>
+
+<!-- header end -->
+
+
+
+
+<!-- TemplateBeginEditable name="mainContent" -->
+
+<div class="default-wrapper">
+  <div class="container">
+	<div class="row">
+     
+    
+      <div class="col-sm-12 col-md-12">&nbsp;</div>
+   
+	</div>
+  </div>
+</div>
+
+<!-- TemplateEndEditable -->
+
+
+
+
+
+<!-- Footer -->
+<div class="footer-wrapper">
+ <div class="container">
+  <div class="row "> 
+ 
+    <div class="col-sm-12 col-md-12">&nbsp;</div>
+  
+  </div>
+ </div>
+</div><!-- footer end -->
+
+
+</div><!-- wrapper end -->
+
+
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css">
+<!-- Font Awesome -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-XdYbMnZ/QjLh6iI4ogqCTaIjrFk87ip+ekIjefZch0Y+PvJ8CDYtEs1ipDmPorQ+" crossorigin="anonymous">
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js" integrity="sha256-xNjb53/rY+WmG+4L6tTl9m6PpqknWZvRt0rO1SRnJzw=" crossorigin="anonymous"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="../js/plugins/essentials.js"></script>
+
+<!-- TemplateBeginEditable name="footer" -->
+<!-- TemplateEndEditable -->
+
+
+
+
+</body>
+</html>
